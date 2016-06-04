@@ -1,8 +1,8 @@
 # OVH WebKVM
 
 OVH WebKVM is a little python script that enables your server's emergency
-console using OVH API, launches a local [NoVNC](http://kanaka.github.io/noVNC/)
-+ [websockify](https://github.com/kanaka/websockify) instance,
+console using OVH API, launches locales [NoVNC](http://kanaka.github.io/noVNC/)
+and [websockify](https://github.com/kanaka/websockify) instances,
 then connects itself automatically to your server's console.
 
 No need to use OVH manager or the awful Java iKVM Viewer applet!
