@@ -1,0 +1,4 @@
+[submodule "noVNC"]
+	path = noVNC
+	url = https://github.com/kelleyk/noVNC.git
+	branch = bmc-support
