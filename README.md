@@ -1,14 +1,15 @@
 # OVH WebKVM
 
-OVH WebKVM is a little python script that enable your server's emergency console
-using OVH API, launch a local [NoVNC](http://kanaka.github.io/noVNC/) + 
-[websockify](https://github.com/kanaka/websockify) instance, then automatically 
-connect to your server's console.
+OVH WebKVM is a little python script that enables your server's emergency
+console using OVH API, launches a local [NoVNC](http://kanaka.github.io/noVNC/)
++ [websockify](https://github.com/kanaka/websockify) instance,
+then connects itself automatically to your server's console.
 
 No need to use OVH manager or the awful Java iKVM Viewer applet!
 
-Support for ATEN proprietary video encoding in NoVNC is done by @kelleyk, many
-thanks to [him](https://github.com/kelleyk/noVNC/tree/bmc-support)!
+Support for ATEN proprietary video encoding in NoVNC is done by
+[@kelleyk](https://github.com/kelleyk), many thanks to
+[him](https://github.com/kelleyk/noVNC/tree/bmc-support)!
 
 ## Requirements
 
