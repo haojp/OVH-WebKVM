@@ -43,7 +43,9 @@ pip install -r requirements.txt
 ```
 
 Register your application on the OVH API using
-[this form](https://eu.api.ovh.com/createApp/), with the following permissions:
+[this form](https://eu.api.ovh.com/createToken/) (EU) or
+[this form](https://ca.api.ovh.com/createToken/) (CA), with the following
+permissions:
 ```
 GET  /dedicated/server
 GET  /dedicated/server/*/features/ipmi*
